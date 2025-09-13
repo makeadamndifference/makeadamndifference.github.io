@@ -1,0 +1,1 @@
+This is a template repo for getting started with [SadeWiki](https://github.com/hinkleydev/SadeWiki). This template contains the preconfigured workflow YAML files for setting up a site, all you need to do is create the content!
