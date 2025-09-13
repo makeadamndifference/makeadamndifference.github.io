@@ -1,1 +1,5 @@
-This is a template repo for getting started with [SadeWiki](https://github.com/hinkleydev/SadeWiki). This template contains the preconfigured workflow YAML files for setting up a site, all you need to do is create the content!
+# Make a Damn Difference
+For those who want to make a change in the world but don't know where to start 
+
+## What does that mean?
+It means the people who are sick of watching the world crumble can get up and do something. You might think you're powerless, but if many people band together, the results can be incredible.
