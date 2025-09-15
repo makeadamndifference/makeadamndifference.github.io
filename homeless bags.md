@@ -14,3 +14,14 @@ If you don't drive a car or tend to bike to locations, consider you can still st
 - Plasters / band aids
 
 Again, be aware of what's best given the circumstances.
+
+Consider the following:
+## Containers
+Containers themselves are useful. Think about what will last, for example:
+- Plastic containers (the small type you store food in)
+- Light bags like backpacks (always useful)
+- Plastic carrier bags (resilient)
+
+On the other hand, bad containers may include:
+- Paper bags (eco friendly, but delicate, and prone to damage when wet)
+- Suitcases (useful for occasions, but generally very heavy and unpleasant to take through outdoor spaces)
