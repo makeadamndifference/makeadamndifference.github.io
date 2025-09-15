@@ -25,3 +25,6 @@ Containers themselves are useful. Think about what will last, for example:
 On the other hand, bad containers may include:
 - Paper bags (eco friendly, but delicate, and prone to damage when wet)
 - Suitcases (useful for occasions, but generally very heavy and unpleasant to take through outdoor spaces)
+
+## Information
+It's not unheard to store names and addresses of locations that will help out a person in need. However, some people resort to giving out religious texts, I would personally advise against this, as someone may have religious trauma, or be on the street due to religious reasons (getting kicked out for being LGBTQ+ in a conservative household). In these cases, a person may be wary of anything else you provide them, especially names and locations.
