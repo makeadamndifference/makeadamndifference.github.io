@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Build
-        uses: hinkleydev/SadeWiki@v0.1
+        uses: hinkleydev/SadeWiki@v1
       - name: Upload Build Artifacts
         uses: actions/upload-pages-artifact@v3
         with:
