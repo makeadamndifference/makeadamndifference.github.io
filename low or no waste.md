@@ -9,4 +9,4 @@ Here's some things you can do in the kitchen
   * Glasses - A jar can be reused as a glass for drinks
 * Takeaway containers - These plastic containers are usually handy
   * Food storage - Of course, what it's designed for. May or may not include food from the takeaway
-  * Storage for care packages - These small boxes are great for carrying small things like sewing kits and hydration tablets, see [homeless kits](/homeless bags.html) for more ideas.
+  * Storage for care packages - These small boxes are great for carrying small things like sewing kits and hydration tablets, see [homeless kits](https://www.makeadamndifference.com/homeless%20bags.html) for more ideas.
